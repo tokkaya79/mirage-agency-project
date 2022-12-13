@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mirage-agency-project/static/css/main.1d082aca.css",
+    "main.js": "/mirage-agency-project/static/js/main.e66f2c44.js",
+    "static/media/CircularStd-Bold.woff": "/mirage-agency-project/static/media/CircularStd-Bold.b0808321079afca2aa34.woff",
+    "static/media/CircularStd-Medium.woff": "/mirage-agency-project/static/media/CircularStd-Medium.1dd319b87a915b106596.woff",
+    "static/media/CircularStd-Book.woff": "/mirage-agency-project/static/media/CircularStd-Book.21a2c3d36dbaade80e2c.woff",
+    "static/media/CircularStd-Bold.woff2": "/mirage-agency-project/static/media/CircularStd-Bold.fb72b487cf867b50d2cb.woff2",
+    "static/media/CircularStd-Medium.woff2": "/mirage-agency-project/static/media/CircularStd-Medium.2858431679b815919f95.woff2",
+    "index.html": "/mirage-agency-project/index.html",
+    "static/media/CircularStd-Book.woff2": "/mirage-agency-project/static/media/CircularStd-Book.1f1f0b7a337d291e40d2.woff2",
+    "static/media/ProximaNova-Bold.woff": "/mirage-agency-project/static/media/ProximaNova-Bold.211f655237656f097c25.woff",
+    "static/media/ProximaNova-Regular.woff": "/mirage-agency-project/static/media/ProximaNova-Regular.c1d087925d1edb9c5101.woff",
+    "static/media/ProximaNova-Regular.woff2": "/mirage-agency-project/static/media/ProximaNova-Regular.e93dd99dbeb6c0dd7d0c.woff2",
+    "static/media/ProximaNova-Bold.woff2": "/mirage-agency-project/static/media/ProximaNova-Bold.0c2736ba193321ba73b9.woff2",
+    "static/media/sprite.svg": "/mirage-agency-project/static/media/sprite.182a91b0ebe79488aac9.svg",
+    "static/media/arrows.svg": "/mirage-agency-project/static/media/arrows.1791de6e573b14bf2636.svg",
+    "static/media/copy.svg": "/mirage-agency-project/static/media/copy.65bd049864538f0746ca.svg",
+    "main.1d082aca.css.map": "/mirage-agency-project/static/css/main.1d082aca.css.map",
+    "main.e66f2c44.js.map": "/mirage-agency-project/static/js/main.e66f2c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d082aca.css",
+    "static/js/main.e66f2c44.js"
+  ]
+}
